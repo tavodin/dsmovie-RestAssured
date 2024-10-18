@@ -29,6 +29,7 @@ public class MovieControllerRA {
 		titleMovie = "Matrix";
 		existingMovieID = 1L;
 		nonExistingMovieId = 100L;
+
 		clientUsername = "ana@gmail.com";
 		clientPassword = "123456";
 		adminUsername = "maria@gmail.com";
